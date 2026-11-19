@@ -250,8 +250,8 @@ docker-compose.yml    backend (uvicorn) + frontend (nginx)
 
 
 👨‍💻 Author
-**Ayush Kumar**
-- **GitHub:** [https://github.com/GuptaAyu](https://github.com/GuptaAyu)
-- **LinkedIn:** [https://www.linkedin.com/in/ayush-kumar-gupta08/](https://www.linkedin.com/in/ayush-kumar-gupta08/)
+**Tanuj Gupta**
+- **GitHub:** [https://github.com/TanujGupta001](https://github.com/TanujGupta001)
+
 
 
